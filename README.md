@@ -12,5 +12,19 @@ SYS design!:
 
 To RUN : start compiling main_final.py, trained models are also added.
 
+![image](https://github.com/user-attachments/assets/e995fcdf-3f44-4725-acdc-6a0958cfd462)
+![image](https://github.com/user-attachments/assets/0879062d-c0c5-4f3b-9722-3a31827cf558)
+![image](https://github.com/user-attachments/assets/702ad876-d7f8-4968-b595-9f7ec4a050a1)
+![image](https://github.com/user-attachments/assets/8907b7a0-97e8-4601-ba76-9d8c367955c9)
+![image](https://github.com/user-attachments/assets/823bf78d-c537-43aa-b120-3e29a112e7f7)
+![image](https://github.com/user-attachments/assets/0fda5101-928a-4ab6-b799-593e0e751efd)
+![image](https://github.com/user-attachments/assets/fb2937c8-4331-4087-89d0-5cae3fe2459e)
+
+
+
+
+
+
+
 
 
