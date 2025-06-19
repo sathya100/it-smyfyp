@@ -10,4 +10,7 @@ SYS design!:
 ![image](https://github.com/user-attachments/assets/f021c03b-f030-4936-a751-e34603617519)
 
 
+To RUN : start compiling main_final.py, trained models are also added.
+
+
 
